@@ -1,4 +1,4 @@
-.headsub {
+p {
     background-color: rgb(241, 142, 142);
     font-family: Verdana, sans-serif, DejaVu Sans;
 }
@@ -7,4 +7,14 @@
     color: blue;
     font-size: 36px;
     font-family: Verdana, sans-serif, DejaVu Sans;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
